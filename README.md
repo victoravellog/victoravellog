@@ -14,7 +14,6 @@ Ruby · Rails · PostgreSQL · PostGIS · Hotwire · Docker · Kamal
 
 - [FutPred](https://github.com/victoravellog/futpred) — Football predictions app (Rails 8)
 - [Cacacounter](https://github.com/victoravellog/cacacounter) — Diaper tracking app for newborns (Rails 8)
-- [PostGIS Rails Cookbook](https://github.com/victoravellog/postgis-rails-cookbook) — Spatial queries and GIS patterns for Rails
 
 ## Contact
 
